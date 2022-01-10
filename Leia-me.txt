@@ -1,0 +1,19 @@
+1 - Banco de dados Firebird
+
+Acesse a Pasta: Database
+
+Altere o arquivo Configuracao.ini e defina o caminho do banco de dados
+
+2 - Utilizado componente da DevExpress e Firedac para mostrar que já trabalhei com ambas
+
+3 - Utilizado ReportBuilder para gerar o relatório (Deu erro ao instalar esse Fortes Report).
+
+4 - Não criei classe de persistência para salvar as informações, apenas uma herança de tela contendo algumas
+funcionalidades, no entanto, trabalho com rotina de orientação a objetos onde se define um dicionário de propriedades e classes 
+representando as tabelas do banco de dados. Criar uma rotina como essa, demandaria mais tempo.
+
+5 - Executavel disponivel na pasta EXE, Senha Padrão: Usuário ADMIN Senha ADMIN
+
+6 - Algo que tenha faltado na rotina, por gentileza, me procure.
+
+7 - Em caso de duvidas favor mandar mensagem.
